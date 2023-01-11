@@ -1,0 +1,2 @@
+def coseno():
+    pass
